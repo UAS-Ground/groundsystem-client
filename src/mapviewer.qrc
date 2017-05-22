@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mapviewer/doc/images/mapviewer.png</file>
+        <file>mapviewer/doc/src/mapviewer.qdoc</file>
+        <file>mapviewer/forms/Geocode.qml</file>
+        <file>mapviewer/forms/GeocodeForm.ui.qml</file>
+        <file>mapviewer/forms/Locale.qml</file>
+        <file>mapviewer/forms/LocaleForm.ui.qml</file>
+        <file>mapviewer/forms/Message.qml</file>
+        <file>mapviewer/forms/MessageForm.ui.qml</file>
+        <file>mapviewer/forms/ReverseGeocode.qml</file>
+        <file>mapviewer/forms/ReverseGeocodeForm.ui.qml</file>
+        <file>mapviewer/forms/RouteAddress.qml</file>
+        <file>mapviewer/forms/RouteAddressForm.ui.qml</file>
+        <file>mapviewer/forms/RouteCoordinate.qml</file>
+        <file>mapviewer/forms/RouteCoordinateForm.ui.qml</file>
+        <file>mapviewer/forms/RouteList.qml</file>
+        <file>mapviewer/forms/RouteListDelegate.qml</file>
+        <file>mapviewer/forms/RouteListHeader.qml</file>
+        <file>mapviewer/map/CircleItem.qml</file>
+        <file>mapviewer/map/ImageItem.qml</file>
+        <file>mapviewer/map/MapComponent.qml</file>
+        <file>mapviewer/map/Marker.qml</file>
+        <file>mapviewer/map/MiniMap.qml</file>
+        <file>mapviewer/map/PolygonItem.qml</file>
+        <file>mapviewer/map/PolylineItem.qml</file>
+        <file>mapviewer/map/RectangleItem.qml</file>
+        <file>mapviewer/menus/ItemPopupMenu.qml</file>
+        <file>mapviewer/menus/MainMenu.qml</file>
+        <file>mapviewer/menus/MapPopupMenu.qml</file>
+        <file>mapviewer/menus/MarkerPopupMenu.qml</file>
+        <file>mapviewer/resources/icon.png</file>
+        <file>mapviewer/resources/marker.png</file>
+        <file>mapviewer/resources/scale.png</file>
+        <file>mapviewer/resources/scale_end.png</file>
+        <file>mapviewer/helper.js</file>
+        <file>mapviewer/MapViewer.qml</file>
+        <file>mapviewer/map/Drone.qml</file>
+        <file>mapviewer/resources/droneImage.png</file>
+    </qresource>
+</RCC>

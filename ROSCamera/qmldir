@@ -1,0 +1,4 @@
+module ROSCamera
+plugin ROSCameraplugin
+typeinfo ROSCamera.qmltypes
+
